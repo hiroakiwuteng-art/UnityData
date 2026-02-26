@@ -1,3 +1,9 @@
 {
-    { "HP": 10, "Attack": 1, "HealAmount": 2,"HPGroth":3,"AttackGroth":4,"HealAmountGroth":5 }
+    "HP": 10,
+    "Attack": 1,
+    "HealAmount": 2,
+    "HPGroth":3,
+    "AttackGroth":4,
+    "HealAmountGroth":5 
 }
+
