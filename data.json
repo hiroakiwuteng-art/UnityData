@@ -1,6 +1,24 @@
 {
   "enemy": [
-    { "Id": 1, "HP": 10, "Attack": 2 },
-    { "Id": 2, "HP": 20, "Attack": 3 }
+    { "Id": 1, "HP": 2, "Attack": 1 },
+    { "Id": 2, "HP": 2, "Attack": 1 },
+    { "Id": 33 "HP": 3, "Attack": 1 },
+    { "Id": 4, "HP": 3, "Attack": 2 },
+    { "Id": 5, "HP": 3, "Attack": 2 },
+    { "Id": 6, "HP": 3, "Attack": 2 },
+    { "Id": 7, "HP": 4, "Attack": 2 },
+    { "Id": 8, "HP": 4, "Attack": 2 },
+    { "Id": 9, "HP": 4, "Attack": 3 },
+    { "Id": 10, "HP": 4, "Attack": 3 },
+    { "Id": 11, "HP": 5, "Attack": 3 },
+    { "Id": 12, "HP": 6, "Attack": 3 },
+    { "Id": 13, "HP": 6, "Attack": 3 },
+    { "Id": 14, "HP": 6, "Attack": 3 },
+    { "Id": 15, "HP": 6, "Attack": 4 },
+    { "Id": 16, "HP": 6, "Attack": 4 },
+    { "Id": 17, "HP": 7, "Attack": 4 },
+    { "Id": 18, "HP": 7, "Attack": 4 },
+    { "Id": 19, "HP": 8, "Attack": 4 },
+    { "Id": 20, "HP": 10, "Attack": 5 }
   ]
 }
