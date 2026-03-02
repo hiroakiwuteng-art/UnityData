@@ -1,5 +1,5 @@
 {
   "enemy": [
-    { "id": 1, "name":slime, "hp": 3, "attack": 2 }
+    { "id": 1, "name":"slime", "hp": 3, "attack": 2 }
   ]
 }
